@@ -1,0 +1,4 @@
+Model,MAE (days),RMSE (days),R2 Score
+Linear Regression,181.44,182.52,0.529
+Random Forest,148.36,177.16,0.5562
+Gradient Boosting,159.58,169.53,0.5936
